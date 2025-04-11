@@ -1,0 +1,14 @@
+D:\CsharpProjects\EjemplosOperadorCondicional\bin\Debug\net8.0\EjemplosOperadorCondicional.exe
+D:\CsharpProjects\EjemplosOperadorCondicional\bin\Debug\net8.0\EjemplosOperadorCondicional.deps.json
+D:\CsharpProjects\EjemplosOperadorCondicional\bin\Debug\net8.0\EjemplosOperadorCondicional.runtimeconfig.json
+D:\CsharpProjects\EjemplosOperadorCondicional\bin\Debug\net8.0\EjemplosOperadorCondicional.dll
+D:\CsharpProjects\EjemplosOperadorCondicional\bin\Debug\net8.0\EjemplosOperadorCondicional.pdb
+D:\CsharpProjects\EjemplosOperadorCondicional\obj\Debug\net8.0\EjemplosOperadorCondicional.GeneratedMSBuildEditorConfig.editorconfig
+D:\CsharpProjects\EjemplosOperadorCondicional\obj\Debug\net8.0\EjemplosOperadorCondicional.AssemblyInfoInputs.cache
+D:\CsharpProjects\EjemplosOperadorCondicional\obj\Debug\net8.0\EjemplosOperadorCondicional.AssemblyInfo.cs
+D:\CsharpProjects\EjemplosOperadorCondicional\obj\Debug\net8.0\EjemplosOperadorCondicional.csproj.CoreCompileInputs.cache
+D:\CsharpProjects\EjemplosOperadorCondicional\obj\Debug\net8.0\EjemplosOperadorCondicional.dll
+D:\CsharpProjects\EjemplosOperadorCondicional\obj\Debug\net8.0\refint\EjemplosOperadorCondicional.dll
+D:\CsharpProjects\EjemplosOperadorCondicional\obj\Debug\net8.0\EjemplosOperadorCondicional.pdb
+D:\CsharpProjects\EjemplosOperadorCondicional\obj\Debug\net8.0\EjemplosOperadorCondicional.genruntimeconfig.cache
+D:\CsharpProjects\EjemplosOperadorCondicional\obj\Debug\net8.0\ref\EjemplosOperadorCondicional.dll

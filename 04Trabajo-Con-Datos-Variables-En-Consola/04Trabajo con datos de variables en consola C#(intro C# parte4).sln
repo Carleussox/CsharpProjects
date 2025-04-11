@@ -1,0 +1,52 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01ConversionDeTiposDeDatos", "01ConversionDeTiposDeDatos", "{D6A64F46-406E-B42E-ED8A-A8079BE2D1F1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "02OperacionesDeMatricesConMetodosAuxiliares", "02OperacionesDeMatricesConMetodosAuxiliares", "{98FD0C7B-C501-6702-25F5-0AC8B1FC74A9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EjercicioTryParse", "01ConversionDeTiposDeDatos\EjercicioTryParse\EjercicioTryParse.csproj", "{9314D13A-6CE0-34E7-D521-3727EE4E666A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "exercise-integral-types", "01ConversionDeTiposDeDatos\exercise-integral-types\exercise-integral-types.csproj", "{517AB7CD-D3B9-1B2A-16B1-97A4078E2E10}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "parse-data-in-csharp", "01ConversionDeTiposDeDatos\parse-data-in-csharp\parse-data-in-csharp.csproj", "{5DC5FCB8-22B5-A167-B125-F40DF06DB4E3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sort-and-Reverse-Detection", "02OperacionesDeMatricesConMetodosAuxiliares\Sort-and-Reverse-Detection\Sort-and-Reverse-Detection.csproj", "{BBD4BFA0-57A8-6227-3A51-AFBE9A5EFEDA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9314D13A-6CE0-34E7-D521-3727EE4E666A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9314D13A-6CE0-34E7-D521-3727EE4E666A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9314D13A-6CE0-34E7-D521-3727EE4E666A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9314D13A-6CE0-34E7-D521-3727EE4E666A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{517AB7CD-D3B9-1B2A-16B1-97A4078E2E10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{517AB7CD-D3B9-1B2A-16B1-97A4078E2E10}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{517AB7CD-D3B9-1B2A-16B1-97A4078E2E10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{517AB7CD-D3B9-1B2A-16B1-97A4078E2E10}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5DC5FCB8-22B5-A167-B125-F40DF06DB4E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DC5FCB8-22B5-A167-B125-F40DF06DB4E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DC5FCB8-22B5-A167-B125-F40DF06DB4E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DC5FCB8-22B5-A167-B125-F40DF06DB4E3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BBD4BFA0-57A8-6227-3A51-AFBE9A5EFEDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBD4BFA0-57A8-6227-3A51-AFBE9A5EFEDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBD4BFA0-57A8-6227-3A51-AFBE9A5EFEDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBD4BFA0-57A8-6227-3A51-AFBE9A5EFEDA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{9314D13A-6CE0-34E7-D521-3727EE4E666A} = {D6A64F46-406E-B42E-ED8A-A8079BE2D1F1}
+		{517AB7CD-D3B9-1B2A-16B1-97A4078E2E10} = {D6A64F46-406E-B42E-ED8A-A8079BE2D1F1}
+		{5DC5FCB8-22B5-A167-B125-F40DF06DB4E3} = {D6A64F46-406E-B42E-ED8A-A8079BE2D1F1}
+		{BBD4BFA0-57A8-6227-3A51-AFBE9A5EFEDA} = {98FD0C7B-C501-6702-25F5-0AC8B1FC74A9}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AD10A0CA-CE48-415A-ACC3-9A25240C3288}
+	EndGlobalSection
+EndGlobal

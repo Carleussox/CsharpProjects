@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Logica de bucle while y do while/1.0.0": {
+        "runtime": {
+          "Logica de bucle while y do while.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Logica de bucle while y do while/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

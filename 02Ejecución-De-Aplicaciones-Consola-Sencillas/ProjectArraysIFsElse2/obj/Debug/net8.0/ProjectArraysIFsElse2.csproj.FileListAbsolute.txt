@@ -1,0 +1,14 @@
+D:\CsharpProjects\ProjectArraysIFsElse2\bin\Debug\net8.0\ProjectArraysIFsElse2.exe
+D:\CsharpProjects\ProjectArraysIFsElse2\bin\Debug\net8.0\ProjectArraysIFsElse2.deps.json
+D:\CsharpProjects\ProjectArraysIFsElse2\bin\Debug\net8.0\ProjectArraysIFsElse2.runtimeconfig.json
+D:\CsharpProjects\ProjectArraysIFsElse2\bin\Debug\net8.0\ProjectArraysIFsElse2.dll
+D:\CsharpProjects\ProjectArraysIFsElse2\bin\Debug\net8.0\ProjectArraysIFsElse2.pdb
+D:\CsharpProjects\ProjectArraysIFsElse2\obj\Debug\net8.0\ProjectArraysIFsElse2.GeneratedMSBuildEditorConfig.editorconfig
+D:\CsharpProjects\ProjectArraysIFsElse2\obj\Debug\net8.0\ProjectArraysIFsElse2.AssemblyInfoInputs.cache
+D:\CsharpProjects\ProjectArraysIFsElse2\obj\Debug\net8.0\ProjectArraysIFsElse2.AssemblyInfo.cs
+D:\CsharpProjects\ProjectArraysIFsElse2\obj\Debug\net8.0\ProjectArraysIFsElse2.csproj.CoreCompileInputs.cache
+D:\CsharpProjects\ProjectArraysIFsElse2\obj\Debug\net8.0\ProjectArraysIFsElse2.dll
+D:\CsharpProjects\ProjectArraysIFsElse2\obj\Debug\net8.0\refint\ProjectArraysIFsElse2.dll
+D:\CsharpProjects\ProjectArraysIFsElse2\obj\Debug\net8.0\ProjectArraysIFsElse2.pdb
+D:\CsharpProjects\ProjectArraysIFsElse2\obj\Debug\net8.0\ProjectArraysIFsElse2.genruntimeconfig.cache
+D:\CsharpProjects\ProjectArraysIFsElse2\obj\Debug\net8.0\ref\ProjectArraysIFsElse2.dll

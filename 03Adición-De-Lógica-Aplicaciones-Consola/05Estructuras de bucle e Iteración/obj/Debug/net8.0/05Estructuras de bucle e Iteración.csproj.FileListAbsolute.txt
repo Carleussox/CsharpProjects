@@ -1,0 +1,14 @@
+D:\CsharpProjects\03Adición de lógica a aplicaciones de consola de C# (Introducción a C#, parte 3)\05Estructuras de bucle e Iteración\bin\Debug\net8.0\05Estructuras de bucle e Iteración.exe
+D:\CsharpProjects\03Adición de lógica a aplicaciones de consola de C# (Introducción a C#, parte 3)\05Estructuras de bucle e Iteración\bin\Debug\net8.0\05Estructuras de bucle e Iteración.deps.json
+D:\CsharpProjects\03Adición de lógica a aplicaciones de consola de C# (Introducción a C#, parte 3)\05Estructuras de bucle e Iteración\bin\Debug\net8.0\05Estructuras de bucle e Iteración.runtimeconfig.json
+D:\CsharpProjects\03Adición de lógica a aplicaciones de consola de C# (Introducción a C#, parte 3)\05Estructuras de bucle e Iteración\bin\Debug\net8.0\05Estructuras de bucle e Iteración.dll
+D:\CsharpProjects\03Adición de lógica a aplicaciones de consola de C# (Introducción a C#, parte 3)\05Estructuras de bucle e Iteración\bin\Debug\net8.0\05Estructuras de bucle e Iteración.pdb
+D:\CsharpProjects\03Adición de lógica a aplicaciones de consola de C# (Introducción a C#, parte 3)\05Estructuras de bucle e Iteración\obj\Debug\net8.0\05Estructuras de bucle e Iteración.GeneratedMSBuildEditorConfig.editorconfig
+D:\CsharpProjects\03Adición de lógica a aplicaciones de consola de C# (Introducción a C#, parte 3)\05Estructuras de bucle e Iteración\obj\Debug\net8.0\05Estructuras de bucle e Iteración.AssemblyInfoInputs.cache
+D:\CsharpProjects\03Adición de lógica a aplicaciones de consola de C# (Introducción a C#, parte 3)\05Estructuras de bucle e Iteración\obj\Debug\net8.0\05Estructuras de bucle e Iteración.AssemblyInfo.cs
+D:\CsharpProjects\03Adición de lógica a aplicaciones de consola de C# (Introducción a C#, parte 3)\05Estructuras de bucle e Iteración\obj\Debug\net8.0\05Estructuras de bucle e Iteración.csproj.CoreCompileInputs.cache
+D:\CsharpProjects\03Adición de lógica a aplicaciones de consola de C# (Introducción a C#, parte 3)\05Estructuras de bucle e Iteración\obj\Debug\net8.0\05Estructuras de bucle e Iteración.dll
+D:\CsharpProjects\03Adición de lógica a aplicaciones de consola de C# (Introducción a C#, parte 3)\05Estructuras de bucle e Iteración\obj\Debug\net8.0\refint\05Estructuras de bucle e Iteración.dll
+D:\CsharpProjects\03Adición de lógica a aplicaciones de consola de C# (Introducción a C#, parte 3)\05Estructuras de bucle e Iteración\obj\Debug\net8.0\05Estructuras de bucle e Iteración.pdb
+D:\CsharpProjects\03Adición de lógica a aplicaciones de consola de C# (Introducción a C#, parte 3)\05Estructuras de bucle e Iteración\obj\Debug\net8.0\05Estructuras de bucle e Iteración.genruntimeconfig.cache
+D:\CsharpProjects\03Adición de lógica a aplicaciones de consola de C# (Introducción a C#, parte 3)\05Estructuras de bucle e Iteración\obj\Debug\net8.0\ref\05Estructuras de bucle e Iteración.dll

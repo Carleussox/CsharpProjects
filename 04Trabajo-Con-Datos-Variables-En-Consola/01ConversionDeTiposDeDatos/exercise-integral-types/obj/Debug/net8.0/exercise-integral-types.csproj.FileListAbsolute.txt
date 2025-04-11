@@ -1,0 +1,14 @@
+D:\CsharpProjects\04Trabajo con datos de variables en consola C#(intro C# parte4)\exercise-integral-types\bin\Debug\net8.0\exercise-integral-types.exe
+D:\CsharpProjects\04Trabajo con datos de variables en consola C#(intro C# parte4)\exercise-integral-types\bin\Debug\net8.0\exercise-integral-types.deps.json
+D:\CsharpProjects\04Trabajo con datos de variables en consola C#(intro C# parte4)\exercise-integral-types\bin\Debug\net8.0\exercise-integral-types.runtimeconfig.json
+D:\CsharpProjects\04Trabajo con datos de variables en consola C#(intro C# parte4)\exercise-integral-types\bin\Debug\net8.0\exercise-integral-types.dll
+D:\CsharpProjects\04Trabajo con datos de variables en consola C#(intro C# parte4)\exercise-integral-types\bin\Debug\net8.0\exercise-integral-types.pdb
+D:\CsharpProjects\04Trabajo con datos de variables en consola C#(intro C# parte4)\exercise-integral-types\obj\Debug\net8.0\exercise-integral-types.GeneratedMSBuildEditorConfig.editorconfig
+D:\CsharpProjects\04Trabajo con datos de variables en consola C#(intro C# parte4)\exercise-integral-types\obj\Debug\net8.0\exercise-integral-types.AssemblyInfoInputs.cache
+D:\CsharpProjects\04Trabajo con datos de variables en consola C#(intro C# parte4)\exercise-integral-types\obj\Debug\net8.0\exercise-integral-types.AssemblyInfo.cs
+D:\CsharpProjects\04Trabajo con datos de variables en consola C#(intro C# parte4)\exercise-integral-types\obj\Debug\net8.0\exercise-integral-types.csproj.CoreCompileInputs.cache
+D:\CsharpProjects\04Trabajo con datos de variables en consola C#(intro C# parte4)\exercise-integral-types\obj\Debug\net8.0\exercise-integral-types.dll
+D:\CsharpProjects\04Trabajo con datos de variables en consola C#(intro C# parte4)\exercise-integral-types\obj\Debug\net8.0\refint\exercise-integral-types.dll
+D:\CsharpProjects\04Trabajo con datos de variables en consola C#(intro C# parte4)\exercise-integral-types\obj\Debug\net8.0\exercise-integral-types.pdb
+D:\CsharpProjects\04Trabajo con datos de variables en consola C#(intro C# parte4)\exercise-integral-types\obj\Debug\net8.0\exercise-integral-types.genruntimeconfig.cache
+D:\CsharpProjects\04Trabajo con datos de variables en consola C#(intro C# parte4)\exercise-integral-types\obj\Debug\net8.0\ref\exercise-integral-types.dll

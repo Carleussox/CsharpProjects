@@ -1,0 +1,14 @@
+D:\CsharpProjects\ProjectFraudMatrixExercise\obj\Debug\net8.0\ProjectFraudMatrixExercise.GeneratedMSBuildEditorConfig.editorconfig
+D:\CsharpProjects\ProjectFraudMatrixExercise\obj\Debug\net8.0\ProjectFraudMatrixExercise.AssemblyInfoInputs.cache
+D:\CsharpProjects\ProjectFraudMatrixExercise\obj\Debug\net8.0\ProjectFraudMatrixExercise.AssemblyInfo.cs
+D:\CsharpProjects\ProjectFraudMatrixExercise\obj\Debug\net8.0\ProjectFraudMatrixExercise.csproj.CoreCompileInputs.cache
+D:\CsharpProjects\ProjectFraudMatrixExercise\bin\Debug\net8.0\ProjectFraudMatrixExercise.exe
+D:\CsharpProjects\ProjectFraudMatrixExercise\bin\Debug\net8.0\ProjectFraudMatrixExercise.deps.json
+D:\CsharpProjects\ProjectFraudMatrixExercise\bin\Debug\net8.0\ProjectFraudMatrixExercise.runtimeconfig.json
+D:\CsharpProjects\ProjectFraudMatrixExercise\bin\Debug\net8.0\ProjectFraudMatrixExercise.dll
+D:\CsharpProjects\ProjectFraudMatrixExercise\bin\Debug\net8.0\ProjectFraudMatrixExercise.pdb
+D:\CsharpProjects\ProjectFraudMatrixExercise\obj\Debug\net8.0\ProjectFraudMatrixExercise.dll
+D:\CsharpProjects\ProjectFraudMatrixExercise\obj\Debug\net8.0\refint\ProjectFraudMatrixExercise.dll
+D:\CsharpProjects\ProjectFraudMatrixExercise\obj\Debug\net8.0\ProjectFraudMatrixExercise.pdb
+D:\CsharpProjects\ProjectFraudMatrixExercise\obj\Debug\net8.0\ProjectFraudMatrixExercise.genruntimeconfig.cache
+D:\CsharpProjects\ProjectFraudMatrixExercise\obj\Debug\net8.0\ref\ProjectFraudMatrixExercise.dll

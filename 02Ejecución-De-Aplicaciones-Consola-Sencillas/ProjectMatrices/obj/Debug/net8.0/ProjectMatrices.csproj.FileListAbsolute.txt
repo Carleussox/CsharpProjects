@@ -1,0 +1,14 @@
+D:\CsharpProjects\ProjectMatrices\bin\Debug\net8.0\ProjectMatrices.exe
+D:\CsharpProjects\ProjectMatrices\bin\Debug\net8.0\ProjectMatrices.deps.json
+D:\CsharpProjects\ProjectMatrices\bin\Debug\net8.0\ProjectMatrices.runtimeconfig.json
+D:\CsharpProjects\ProjectMatrices\bin\Debug\net8.0\ProjectMatrices.dll
+D:\CsharpProjects\ProjectMatrices\bin\Debug\net8.0\ProjectMatrices.pdb
+D:\CsharpProjects\ProjectMatrices\obj\Debug\net8.0\ProjectMatrices.GeneratedMSBuildEditorConfig.editorconfig
+D:\CsharpProjects\ProjectMatrices\obj\Debug\net8.0\ProjectMatrices.AssemblyInfoInputs.cache
+D:\CsharpProjects\ProjectMatrices\obj\Debug\net8.0\ProjectMatrices.AssemblyInfo.cs
+D:\CsharpProjects\ProjectMatrices\obj\Debug\net8.0\ProjectMatrices.csproj.CoreCompileInputs.cache
+D:\CsharpProjects\ProjectMatrices\obj\Debug\net8.0\ProjectMatrices.dll
+D:\CsharpProjects\ProjectMatrices\obj\Debug\net8.0\refint\ProjectMatrices.dll
+D:\CsharpProjects\ProjectMatrices\obj\Debug\net8.0\ProjectMatrices.pdb
+D:\CsharpProjects\ProjectMatrices\obj\Debug\net8.0\ProjectMatrices.genruntimeconfig.cache
+D:\CsharpProjects\ProjectMatrices\obj\Debug\net8.0\ref\ProjectMatrices.dll

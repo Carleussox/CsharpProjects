@@ -1,0 +1,14 @@
+D:\CsharpProjects\BooleanPractice1\obj\Debug\net8.0\BooleanPractice.GeneratedMSBuildEditorConfig.editorconfig
+D:\CsharpProjects\BooleanPractice1\obj\Debug\net8.0\BooleanPractice.AssemblyInfoInputs.cache
+D:\CsharpProjects\BooleanPractice1\obj\Debug\net8.0\BooleanPractice.AssemblyInfo.cs
+D:\CsharpProjects\BooleanPractice1\obj\Debug\net8.0\BooleanPractice.csproj.CoreCompileInputs.cache
+D:\CsharpProjects\BooleanPractice1\bin\Debug\net8.0\BooleanPractice.exe
+D:\CsharpProjects\BooleanPractice1\bin\Debug\net8.0\BooleanPractice.deps.json
+D:\CsharpProjects\BooleanPractice1\bin\Debug\net8.0\BooleanPractice.runtimeconfig.json
+D:\CsharpProjects\BooleanPractice1\bin\Debug\net8.0\BooleanPractice.dll
+D:\CsharpProjects\BooleanPractice1\bin\Debug\net8.0\BooleanPractice.pdb
+D:\CsharpProjects\BooleanPractice1\obj\Debug\net8.0\BooleanPractice.dll
+D:\CsharpProjects\BooleanPractice1\obj\Debug\net8.0\refint\BooleanPractice.dll
+D:\CsharpProjects\BooleanPractice1\obj\Debug\net8.0\BooleanPractice.pdb
+D:\CsharpProjects\BooleanPractice1\obj\Debug\net8.0\BooleanPractice.genruntimeconfig.cache
+D:\CsharpProjects\BooleanPractice1\obj\Debug\net8.0\ref\BooleanPractice.dll

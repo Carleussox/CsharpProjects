@@ -1,0 +1,14 @@
+D:\CsharpProjects\04Trabajo con datos de variables en consola C#(intro C# parte4)\parse-data-in-csharp\obj\Debug\net8.0\parse-data-in-csharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\CsharpProjects\04Trabajo con datos de variables en consola C#(intro C# parte4)\parse-data-in-csharp\obj\Debug\net8.0\parse-data-in-csharp.AssemblyInfoInputs.cache
+D:\CsharpProjects\04Trabajo con datos de variables en consola C#(intro C# parte4)\parse-data-in-csharp\obj\Debug\net8.0\parse-data-in-csharp.AssemblyInfo.cs
+D:\CsharpProjects\04Trabajo con datos de variables en consola C#(intro C# parte4)\parse-data-in-csharp\obj\Debug\net8.0\parse-data-in-csharp.csproj.CoreCompileInputs.cache
+D:\CsharpProjects\04Trabajo con datos de variables en consola C#(intro C# parte4)\parse-data-in-csharp\bin\Debug\net8.0\parse-data-in-csharp.exe
+D:\CsharpProjects\04Trabajo con datos de variables en consola C#(intro C# parte4)\parse-data-in-csharp\bin\Debug\net8.0\parse-data-in-csharp.deps.json
+D:\CsharpProjects\04Trabajo con datos de variables en consola C#(intro C# parte4)\parse-data-in-csharp\bin\Debug\net8.0\parse-data-in-csharp.runtimeconfig.json
+D:\CsharpProjects\04Trabajo con datos de variables en consola C#(intro C# parte4)\parse-data-in-csharp\bin\Debug\net8.0\parse-data-in-csharp.dll
+D:\CsharpProjects\04Trabajo con datos de variables en consola C#(intro C# parte4)\parse-data-in-csharp\bin\Debug\net8.0\parse-data-in-csharp.pdb
+D:\CsharpProjects\04Trabajo con datos de variables en consola C#(intro C# parte4)\parse-data-in-csharp\obj\Debug\net8.0\parse-data-in-csharp.dll
+D:\CsharpProjects\04Trabajo con datos de variables en consola C#(intro C# parte4)\parse-data-in-csharp\obj\Debug\net8.0\refint\parse-data-in-csharp.dll
+D:\CsharpProjects\04Trabajo con datos de variables en consola C#(intro C# parte4)\parse-data-in-csharp\obj\Debug\net8.0\parse-data-in-csharp.pdb
+D:\CsharpProjects\04Trabajo con datos de variables en consola C#(intro C# parte4)\parse-data-in-csharp\obj\Debug\net8.0\parse-data-in-csharp.genruntimeconfig.cache
+D:\CsharpProjects\04Trabajo con datos de variables en consola C#(intro C# parte4)\parse-data-in-csharp\obj\Debug\net8.0\ref\parse-data-in-csharp.dll

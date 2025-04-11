@@ -1,0 +1,14 @@
+D:\CsharpProjects\03Adición de lógica a aplicaciones de consola de C# (Introducción a C#, parte 3)\06Estructuras de bifuración y bucle\bin\Debug\net8.0\06Estructuras de bifuración y bucle.exe
+D:\CsharpProjects\03Adición de lógica a aplicaciones de consola de C# (Introducción a C#, parte 3)\06Estructuras de bifuración y bucle\bin\Debug\net8.0\06Estructuras de bifuración y bucle.deps.json
+D:\CsharpProjects\03Adición de lógica a aplicaciones de consola de C# (Introducción a C#, parte 3)\06Estructuras de bifuración y bucle\bin\Debug\net8.0\06Estructuras de bifuración y bucle.runtimeconfig.json
+D:\CsharpProjects\03Adición de lógica a aplicaciones de consola de C# (Introducción a C#, parte 3)\06Estructuras de bifuración y bucle\bin\Debug\net8.0\06Estructuras de bifuración y bucle.dll
+D:\CsharpProjects\03Adición de lógica a aplicaciones de consola de C# (Introducción a C#, parte 3)\06Estructuras de bifuración y bucle\bin\Debug\net8.0\06Estructuras de bifuración y bucle.pdb
+D:\CsharpProjects\03Adición de lógica a aplicaciones de consola de C# (Introducción a C#, parte 3)\06Estructuras de bifuración y bucle\obj\Debug\net8.0\06Estructuras de bifuración y bucle.GeneratedMSBuildEditorConfig.editorconfig
+D:\CsharpProjects\03Adición de lógica a aplicaciones de consola de C# (Introducción a C#, parte 3)\06Estructuras de bifuración y bucle\obj\Debug\net8.0\06Estructuras de bifuración y bucle.AssemblyInfoInputs.cache
+D:\CsharpProjects\03Adición de lógica a aplicaciones de consola de C# (Introducción a C#, parte 3)\06Estructuras de bifuración y bucle\obj\Debug\net8.0\06Estructuras de bifuración y bucle.AssemblyInfo.cs
+D:\CsharpProjects\03Adición de lógica a aplicaciones de consola de C# (Introducción a C#, parte 3)\06Estructuras de bifuración y bucle\obj\Debug\net8.0\06Estructuras de bifuración y bucle.csproj.CoreCompileInputs.cache
+D:\CsharpProjects\03Adición de lógica a aplicaciones de consola de C# (Introducción a C#, parte 3)\06Estructuras de bifuración y bucle\obj\Debug\net8.0\06Estructuras de bifuración y bucle.dll
+D:\CsharpProjects\03Adición de lógica a aplicaciones de consola de C# (Introducción a C#, parte 3)\06Estructuras de bifuración y bucle\obj\Debug\net8.0\refint\06Estructuras de bifuración y bucle.dll
+D:\CsharpProjects\03Adición de lógica a aplicaciones de consola de C# (Introducción a C#, parte 3)\06Estructuras de bifuración y bucle\obj\Debug\net8.0\06Estructuras de bifuración y bucle.pdb
+D:\CsharpProjects\03Adición de lógica a aplicaciones de consola de C# (Introducción a C#, parte 3)\06Estructuras de bifuración y bucle\obj\Debug\net8.0\06Estructuras de bifuración y bucle.genruntimeconfig.cache
+D:\CsharpProjects\03Adición de lógica a aplicaciones de consola de C# (Introducción a C#, parte 3)\06Estructuras de bifuración y bucle\obj\Debug\net8.0\ref\06Estructuras de bifuración y bucle.dll

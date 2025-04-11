@@ -1,0 +1,14 @@
+D:\CsharpProjects\Adición de lógica a aplicaciones de consola de C# (Introducción a C#, parte 3)\DesafioDeLogicaDeDecision\obj\Debug\net8.0\DesafioDeLogicaDeDecision.GeneratedMSBuildEditorConfig.editorconfig
+D:\CsharpProjects\Adición de lógica a aplicaciones de consola de C# (Introducción a C#, parte 3)\DesafioDeLogicaDeDecision\obj\Debug\net8.0\DesafioDeLogicaDeDecision.AssemblyInfoInputs.cache
+D:\CsharpProjects\Adición de lógica a aplicaciones de consola de C# (Introducción a C#, parte 3)\DesafioDeLogicaDeDecision\obj\Debug\net8.0\DesafioDeLogicaDeDecision.AssemblyInfo.cs
+D:\CsharpProjects\Adición de lógica a aplicaciones de consola de C# (Introducción a C#, parte 3)\DesafioDeLogicaDeDecision\obj\Debug\net8.0\DesafioDeLogicaDeDecision.csproj.CoreCompileInputs.cache
+D:\CsharpProjects\Adición de lógica a aplicaciones de consola de C# (Introducción a C#, parte 3)\DesafioDeLogicaDeDecision\bin\Debug\net8.0\DesafioDeLogicaDeDecision.exe
+D:\CsharpProjects\Adición de lógica a aplicaciones de consola de C# (Introducción a C#, parte 3)\DesafioDeLogicaDeDecision\bin\Debug\net8.0\DesafioDeLogicaDeDecision.deps.json
+D:\CsharpProjects\Adición de lógica a aplicaciones de consola de C# (Introducción a C#, parte 3)\DesafioDeLogicaDeDecision\bin\Debug\net8.0\DesafioDeLogicaDeDecision.runtimeconfig.json
+D:\CsharpProjects\Adición de lógica a aplicaciones de consola de C# (Introducción a C#, parte 3)\DesafioDeLogicaDeDecision\bin\Debug\net8.0\DesafioDeLogicaDeDecision.dll
+D:\CsharpProjects\Adición de lógica a aplicaciones de consola de C# (Introducción a C#, parte 3)\DesafioDeLogicaDeDecision\bin\Debug\net8.0\DesafioDeLogicaDeDecision.pdb
+D:\CsharpProjects\Adición de lógica a aplicaciones de consola de C# (Introducción a C#, parte 3)\DesafioDeLogicaDeDecision\obj\Debug\net8.0\DesafioDeLogicaDeDecision.dll
+D:\CsharpProjects\Adición de lógica a aplicaciones de consola de C# (Introducción a C#, parte 3)\DesafioDeLogicaDeDecision\obj\Debug\net8.0\refint\DesafioDeLogicaDeDecision.dll
+D:\CsharpProjects\Adición de lógica a aplicaciones de consola de C# (Introducción a C#, parte 3)\DesafioDeLogicaDeDecision\obj\Debug\net8.0\DesafioDeLogicaDeDecision.pdb
+D:\CsharpProjects\Adición de lógica a aplicaciones de consola de C# (Introducción a C#, parte 3)\DesafioDeLogicaDeDecision\obj\Debug\net8.0\DesafioDeLogicaDeDecision.genruntimeconfig.cache
+D:\CsharpProjects\Adición de lógica a aplicaciones de consola de C# (Introducción a C#, parte 3)\DesafioDeLogicaDeDecision\obj\Debug\net8.0\ref\DesafioDeLogicaDeDecision.dll

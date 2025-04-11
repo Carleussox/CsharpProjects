@@ -1,0 +1,67 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01Evaluación de expresiones booleanas para tomar decisiones en C#", "01Evaluación de expresiones booleanas para tomar decisiones en C#", "{945C7644-8D7E-6BD5-52D9-BF66626199A8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "02Ramificación del flujo de código mediante la construcción Switch Case en C#", "02Ramificación del flujo de código mediante la construcción Switch Case en C#", "{ABC0BA35-E460-C604-E724-810CFD127F7F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BloquesDeCodigoYAmbitoDeLasVariables", "01Evaluación de expresiones booleanas para tomar decisiones en C#\BloquesDeCodigoYAmbitoDeLasVariables\BloquesDeCodigoYAmbitoDeLasVariables.csproj", "{92560DC5-E279-171C-BF19-1D32EF118AA0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesafioDeLogicaDeDecision", "01Evaluación de expresiones booleanas para tomar decisiones en C#\DesafioDeLogicaDeDecision\DesafioDeLogicaDeDecision.csproj", "{11738626-B897-8FFD-595F-F3A5F16B0339}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EjemplosOperadorCondicional", "01Evaluación de expresiones booleanas para tomar decisiones en C#\EjemplosOperadorCondicional\EjemplosOperadorCondicional.csproj", "{91D0AABD-0BC0-E791-24D5-498351759D66}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EliminacionDeBloquesDeCodigoEnIfs", "01Evaluación de expresiones booleanas para tomar decisiones en C#\EliminacionDeBloquesDeCodigoEnIfs\EliminacionDeBloquesDeCodigoEnIfs.csproj", "{6E86FC96-B990-037B-9D4E-07A6BC541A14}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HeadsOrTailsExercise", "01Evaluación de expresiones booleanas para tomar decisiones en C#\HeadsOrTailsExercise\HeadsOrTailsExercise.csproj", "{C1DDA64E-FD58-F990-97E1-5E538A1B6DB8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImplementacionDeUnaInstrucciónSwitch", "02Ramificación del flujo de código mediante la construcción Switch Case en C#\ImplementacionDeUnaInstrucciónSwitch\ImplementacionDeUnaInstrucciónSwitch.csproj", "{1FA519A6-CD7D-5732-A4E9-BCE54004B4DA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{92560DC5-E279-171C-BF19-1D32EF118AA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92560DC5-E279-171C-BF19-1D32EF118AA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92560DC5-E279-171C-BF19-1D32EF118AA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92560DC5-E279-171C-BF19-1D32EF118AA0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11738626-B897-8FFD-595F-F3A5F16B0339}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11738626-B897-8FFD-595F-F3A5F16B0339}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11738626-B897-8FFD-595F-F3A5F16B0339}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11738626-B897-8FFD-595F-F3A5F16B0339}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91D0AABD-0BC0-E791-24D5-498351759D66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91D0AABD-0BC0-E791-24D5-498351759D66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91D0AABD-0BC0-E791-24D5-498351759D66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91D0AABD-0BC0-E791-24D5-498351759D66}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E86FC96-B990-037B-9D4E-07A6BC541A14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E86FC96-B990-037B-9D4E-07A6BC541A14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E86FC96-B990-037B-9D4E-07A6BC541A14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E86FC96-B990-037B-9D4E-07A6BC541A14}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C1DDA64E-FD58-F990-97E1-5E538A1B6DB8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1DDA64E-FD58-F990-97E1-5E538A1B6DB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1DDA64E-FD58-F990-97E1-5E538A1B6DB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1DDA64E-FD58-F990-97E1-5E538A1B6DB8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1FA519A6-CD7D-5732-A4E9-BCE54004B4DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FA519A6-CD7D-5732-A4E9-BCE54004B4DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FA519A6-CD7D-5732-A4E9-BCE54004B4DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FA519A6-CD7D-5732-A4E9-BCE54004B4DA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{92560DC5-E279-171C-BF19-1D32EF118AA0} = {945C7644-8D7E-6BD5-52D9-BF66626199A8}
+		{11738626-B897-8FFD-595F-F3A5F16B0339} = {945C7644-8D7E-6BD5-52D9-BF66626199A8}
+		{91D0AABD-0BC0-E791-24D5-498351759D66} = {945C7644-8D7E-6BD5-52D9-BF66626199A8}
+		{6E86FC96-B990-037B-9D4E-07A6BC541A14} = {945C7644-8D7E-6BD5-52D9-BF66626199A8}
+		{C1DDA64E-FD58-F990-97E1-5E538A1B6DB8} = {945C7644-8D7E-6BD5-52D9-BF66626199A8}
+		{1FA519A6-CD7D-5732-A4E9-BCE54004B4DA} = {ABC0BA35-E460-C604-E724-810CFD127F7F}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1B1F1746-44BA-4016-9B23-FF0150217129}
+	EndGlobalSection
+EndGlobal

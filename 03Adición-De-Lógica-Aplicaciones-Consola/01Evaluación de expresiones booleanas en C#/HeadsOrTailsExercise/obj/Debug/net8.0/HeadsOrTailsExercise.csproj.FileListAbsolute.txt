@@ -1,0 +1,14 @@
+D:\CsharpProjects\HeadsOrTailsExercise\obj\Debug\net8.0\HeadsOrTailsExercise.GeneratedMSBuildEditorConfig.editorconfig
+D:\CsharpProjects\HeadsOrTailsExercise\obj\Debug\net8.0\HeadsOrTailsExercise.AssemblyInfoInputs.cache
+D:\CsharpProjects\HeadsOrTailsExercise\obj\Debug\net8.0\HeadsOrTailsExercise.AssemblyInfo.cs
+D:\CsharpProjects\HeadsOrTailsExercise\obj\Debug\net8.0\HeadsOrTailsExercise.csproj.CoreCompileInputs.cache
+D:\CsharpProjects\HeadsOrTailsExercise\bin\Debug\net8.0\HeadsOrTailsExercise.exe
+D:\CsharpProjects\HeadsOrTailsExercise\bin\Debug\net8.0\HeadsOrTailsExercise.deps.json
+D:\CsharpProjects\HeadsOrTailsExercise\bin\Debug\net8.0\HeadsOrTailsExercise.runtimeconfig.json
+D:\CsharpProjects\HeadsOrTailsExercise\bin\Debug\net8.0\HeadsOrTailsExercise.dll
+D:\CsharpProjects\HeadsOrTailsExercise\bin\Debug\net8.0\HeadsOrTailsExercise.pdb
+D:\CsharpProjects\HeadsOrTailsExercise\obj\Debug\net8.0\HeadsOrTailsExercise.dll
+D:\CsharpProjects\HeadsOrTailsExercise\obj\Debug\net8.0\refint\HeadsOrTailsExercise.dll
+D:\CsharpProjects\HeadsOrTailsExercise\obj\Debug\net8.0\HeadsOrTailsExercise.pdb
+D:\CsharpProjects\HeadsOrTailsExercise\obj\Debug\net8.0\HeadsOrTailsExercise.genruntimeconfig.cache
+D:\CsharpProjects\HeadsOrTailsExercise\obj\Debug\net8.0\ref\HeadsOrTailsExercise.dll

@@ -1,0 +1,14 @@
+D:\CsharpProjects\03Adición de lógica a aplicaciones de consola de C# (Introducción a C#, parte 3)\04Logica de bucle while y do while\obj\Debug\net8.0\Logica de bucle while y do while.GeneratedMSBuildEditorConfig.editorconfig
+D:\CsharpProjects\03Adición de lógica a aplicaciones de consola de C# (Introducción a C#, parte 3)\04Logica de bucle while y do while\obj\Debug\net8.0\Logica de bucle while y do while.AssemblyInfoInputs.cache
+D:\CsharpProjects\03Adición de lógica a aplicaciones de consola de C# (Introducción a C#, parte 3)\04Logica de bucle while y do while\obj\Debug\net8.0\Logica de bucle while y do while.AssemblyInfo.cs
+D:\CsharpProjects\03Adición de lógica a aplicaciones de consola de C# (Introducción a C#, parte 3)\04Logica de bucle while y do while\obj\Debug\net8.0\Logica de bucle while y do while.csproj.CoreCompileInputs.cache
+D:\CsharpProjects\03Adición de lógica a aplicaciones de consola de C# (Introducción a C#, parte 3)\04Logica de bucle while y do while\bin\Debug\net8.0\Logica de bucle while y do while.exe
+D:\CsharpProjects\03Adición de lógica a aplicaciones de consola de C# (Introducción a C#, parte 3)\04Logica de bucle while y do while\bin\Debug\net8.0\Logica de bucle while y do while.deps.json
+D:\CsharpProjects\03Adición de lógica a aplicaciones de consola de C# (Introducción a C#, parte 3)\04Logica de bucle while y do while\bin\Debug\net8.0\Logica de bucle while y do while.runtimeconfig.json
+D:\CsharpProjects\03Adición de lógica a aplicaciones de consola de C# (Introducción a C#, parte 3)\04Logica de bucle while y do while\bin\Debug\net8.0\Logica de bucle while y do while.dll
+D:\CsharpProjects\03Adición de lógica a aplicaciones de consola de C# (Introducción a C#, parte 3)\04Logica de bucle while y do while\bin\Debug\net8.0\Logica de bucle while y do while.pdb
+D:\CsharpProjects\03Adición de lógica a aplicaciones de consola de C# (Introducción a C#, parte 3)\04Logica de bucle while y do while\obj\Debug\net8.0\Logica de bucle while y do while.dll
+D:\CsharpProjects\03Adición de lógica a aplicaciones de consola de C# (Introducción a C#, parte 3)\04Logica de bucle while y do while\obj\Debug\net8.0\refint\Logica de bucle while y do while.dll
+D:\CsharpProjects\03Adición de lógica a aplicaciones de consola de C# (Introducción a C#, parte 3)\04Logica de bucle while y do while\obj\Debug\net8.0\Logica de bucle while y do while.pdb
+D:\CsharpProjects\03Adición de lógica a aplicaciones de consola de C# (Introducción a C#, parte 3)\04Logica de bucle while y do while\obj\Debug\net8.0\Logica de bucle while y do while.genruntimeconfig.cache
+D:\CsharpProjects\03Adición de lógica a aplicaciones de consola de C# (Introducción a C#, parte 3)\04Logica de bucle while y do while\obj\Debug\net8.0\ref\Logica de bucle while y do while.dll

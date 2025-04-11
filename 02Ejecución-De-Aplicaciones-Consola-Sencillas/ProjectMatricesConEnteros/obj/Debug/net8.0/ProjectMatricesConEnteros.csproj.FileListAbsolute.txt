@@ -1,0 +1,14 @@
+D:\CsharpProjects\ProjectMatricesConEnteros\obj\Debug\net8.0\ProjectMatricesConEnteros.GeneratedMSBuildEditorConfig.editorconfig
+D:\CsharpProjects\ProjectMatricesConEnteros\obj\Debug\net8.0\ProjectMatricesConEnteros.AssemblyInfoInputs.cache
+D:\CsharpProjects\ProjectMatricesConEnteros\obj\Debug\net8.0\ProjectMatricesConEnteros.AssemblyInfo.cs
+D:\CsharpProjects\ProjectMatricesConEnteros\obj\Debug\net8.0\ProjectMatricesConEnteros.csproj.CoreCompileInputs.cache
+D:\CsharpProjects\ProjectMatricesConEnteros\bin\Debug\net8.0\ProjectMatricesConEnteros.exe
+D:\CsharpProjects\ProjectMatricesConEnteros\bin\Debug\net8.0\ProjectMatricesConEnteros.deps.json
+D:\CsharpProjects\ProjectMatricesConEnteros\bin\Debug\net8.0\ProjectMatricesConEnteros.runtimeconfig.json
+D:\CsharpProjects\ProjectMatricesConEnteros\bin\Debug\net8.0\ProjectMatricesConEnteros.dll
+D:\CsharpProjects\ProjectMatricesConEnteros\bin\Debug\net8.0\ProjectMatricesConEnteros.pdb
+D:\CsharpProjects\ProjectMatricesConEnteros\obj\Debug\net8.0\ProjectMatricesConEnteros.dll
+D:\CsharpProjects\ProjectMatricesConEnteros\obj\Debug\net8.0\refint\ProjectMatricesConEnteros.dll
+D:\CsharpProjects\ProjectMatricesConEnteros\obj\Debug\net8.0\ProjectMatricesConEnteros.pdb
+D:\CsharpProjects\ProjectMatricesConEnteros\obj\Debug\net8.0\ProjectMatricesConEnteros.genruntimeconfig.cache
+D:\CsharpProjects\ProjectMatricesConEnteros\obj\Debug\net8.0\ref\ProjectMatricesConEnteros.dll

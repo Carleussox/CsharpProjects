@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "06Estructuras de bifuración y bucle/1.0.0": {
+        "runtime": {
+          "06Estructuras de bifuración y bucle.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "06Estructuras de bifuración y bucle/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

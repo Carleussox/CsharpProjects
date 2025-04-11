@@ -1,0 +1,14 @@
+D:\CsharpProjects\04Trabajo con datos de variables en consola C#(intro C# parte4)\02OperacionesDeMatricesConMetodosAuxiliares\Sort-and-Reverse-Detection\bin\Debug\net8.0\Sort-and-Reverse-Detection.exe
+D:\CsharpProjects\04Trabajo con datos de variables en consola C#(intro C# parte4)\02OperacionesDeMatricesConMetodosAuxiliares\Sort-and-Reverse-Detection\bin\Debug\net8.0\Sort-and-Reverse-Detection.deps.json
+D:\CsharpProjects\04Trabajo con datos de variables en consola C#(intro C# parte4)\02OperacionesDeMatricesConMetodosAuxiliares\Sort-and-Reverse-Detection\bin\Debug\net8.0\Sort-and-Reverse-Detection.runtimeconfig.json
+D:\CsharpProjects\04Trabajo con datos de variables en consola C#(intro C# parte4)\02OperacionesDeMatricesConMetodosAuxiliares\Sort-and-Reverse-Detection\bin\Debug\net8.0\Sort-and-Reverse-Detection.dll
+D:\CsharpProjects\04Trabajo con datos de variables en consola C#(intro C# parte4)\02OperacionesDeMatricesConMetodosAuxiliares\Sort-and-Reverse-Detection\bin\Debug\net8.0\Sort-and-Reverse-Detection.pdb
+D:\CsharpProjects\04Trabajo con datos de variables en consola C#(intro C# parte4)\02OperacionesDeMatricesConMetodosAuxiliares\Sort-and-Reverse-Detection\obj\Debug\net8.0\Sort-and-Reverse-Detection.GeneratedMSBuildEditorConfig.editorconfig
+D:\CsharpProjects\04Trabajo con datos de variables en consola C#(intro C# parte4)\02OperacionesDeMatricesConMetodosAuxiliares\Sort-and-Reverse-Detection\obj\Debug\net8.0\Sort-and-Reverse-Detection.AssemblyInfoInputs.cache
+D:\CsharpProjects\04Trabajo con datos de variables en consola C#(intro C# parte4)\02OperacionesDeMatricesConMetodosAuxiliares\Sort-and-Reverse-Detection\obj\Debug\net8.0\Sort-and-Reverse-Detection.AssemblyInfo.cs
+D:\CsharpProjects\04Trabajo con datos de variables en consola C#(intro C# parte4)\02OperacionesDeMatricesConMetodosAuxiliares\Sort-and-Reverse-Detection\obj\Debug\net8.0\Sort-and-Reverse-Detection.csproj.CoreCompileInputs.cache
+D:\CsharpProjects\04Trabajo con datos de variables en consola C#(intro C# parte4)\02OperacionesDeMatricesConMetodosAuxiliares\Sort-and-Reverse-Detection\obj\Debug\net8.0\Sort-and-Reverse-Detection.dll
+D:\CsharpProjects\04Trabajo con datos de variables en consola C#(intro C# parte4)\02OperacionesDeMatricesConMetodosAuxiliares\Sort-and-Reverse-Detection\obj\Debug\net8.0\refint\Sort-and-Reverse-Detection.dll
+D:\CsharpProjects\04Trabajo con datos de variables en consola C#(intro C# parte4)\02OperacionesDeMatricesConMetodosAuxiliares\Sort-and-Reverse-Detection\obj\Debug\net8.0\Sort-and-Reverse-Detection.pdb
+D:\CsharpProjects\04Trabajo con datos de variables en consola C#(intro C# parte4)\02OperacionesDeMatricesConMetodosAuxiliares\Sort-and-Reverse-Detection\obj\Debug\net8.0\Sort-and-Reverse-Detection.genruntimeconfig.cache
+D:\CsharpProjects\04Trabajo con datos de variables en consola C#(intro C# parte4)\02OperacionesDeMatricesConMetodosAuxiliares\Sort-and-Reverse-Detection\obj\Debug\net8.0\ref\Sort-and-Reverse-Detection.dll
