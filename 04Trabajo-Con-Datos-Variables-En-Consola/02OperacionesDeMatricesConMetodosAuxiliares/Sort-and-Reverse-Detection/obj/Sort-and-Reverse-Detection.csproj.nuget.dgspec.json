@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\CsharpProjects\\04Trabajo con datos de variables en consola C#(intro C# parte4)\\02OperacionesDeMatricesConMetodosAuxiliares\\Sort-and-Reverse-Detection\\Sort-and-Reverse-Detection.csproj": {}
+    "D:\\CsharpProjects\\04Trabajo-Con-Datos-Variables-En-Consola\\02OperacionesDeMatricesConMetodosAuxiliares\\Sort-and-Reverse-Detection\\Sort-and-Reverse-Detection.csproj": {}
   },
   "projects": {
-    "D:\\CsharpProjects\\04Trabajo con datos de variables en consola C#(intro C# parte4)\\02OperacionesDeMatricesConMetodosAuxiliares\\Sort-and-Reverse-Detection\\Sort-and-Reverse-Detection.csproj": {
+    "D:\\CsharpProjects\\04Trabajo-Con-Datos-Variables-En-Consola\\02OperacionesDeMatricesConMetodosAuxiliares\\Sort-and-Reverse-Detection\\Sort-and-Reverse-Detection.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\CsharpProjects\\04Trabajo con datos de variables en consola C#(intro C# parte4)\\02OperacionesDeMatricesConMetodosAuxiliares\\Sort-and-Reverse-Detection\\Sort-and-Reverse-Detection.csproj",
+        "projectUniqueName": "D:\\CsharpProjects\\04Trabajo-Con-Datos-Variables-En-Consola\\02OperacionesDeMatricesConMetodosAuxiliares\\Sort-and-Reverse-Detection\\Sort-and-Reverse-Detection.csproj",
         "projectName": "Sort-and-Reverse-Detection",
-        "projectPath": "D:\\CsharpProjects\\04Trabajo con datos de variables en consola C#(intro C# parte4)\\02OperacionesDeMatricesConMetodosAuxiliares\\Sort-and-Reverse-Detection\\Sort-and-Reverse-Detection.csproj",
+        "projectPath": "D:\\CsharpProjects\\04Trabajo-Con-Datos-Variables-En-Consola\\02OperacionesDeMatricesConMetodosAuxiliares\\Sort-and-Reverse-Detection\\Sort-and-Reverse-Detection.csproj",
         "packagesPath": "C:\\Users\\Carlos\\.nuget\\packages\\",
-        "outputPath": "D:\\CsharpProjects\\04Trabajo con datos de variables en consola C#(intro C# parte4)\\02OperacionesDeMatricesConMetodosAuxiliares\\Sort-and-Reverse-Detection\\obj\\",
+        "outputPath": "D:\\CsharpProjects\\04Trabajo-Con-Datos-Variables-En-Consola\\02OperacionesDeMatricesConMetodosAuxiliares\\Sort-and-Reverse-Detection\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Carlos\\AppData\\Roaming\\NuGet\\NuGet.Config"

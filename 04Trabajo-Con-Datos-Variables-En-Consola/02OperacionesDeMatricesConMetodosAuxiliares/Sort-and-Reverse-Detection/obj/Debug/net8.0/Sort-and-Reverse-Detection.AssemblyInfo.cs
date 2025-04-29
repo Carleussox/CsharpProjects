@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Sort-and-Reverse-Detection")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+46520548b15214d317bd350e58c4a731607c04c8")]
 [assembly: System.Reflection.AssemblyProductAttribute("Sort-and-Reverse-Detection")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Sort-and-Reverse-Detection")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

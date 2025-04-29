@@ -1,0 +1,15 @@
+D:\CsharpProjects\04Trabajo-Con-Datos-Variables-En-Consola\03FormatoDeDatosAlfanumericos\BasesFormateoDeCadenas\bin\Debug\net8.0\BasesFormateoDeCadenas.exe
+D:\CsharpProjects\04Trabajo-Con-Datos-Variables-En-Consola\03FormatoDeDatosAlfanumericos\BasesFormateoDeCadenas\bin\Debug\net8.0\BasesFormateoDeCadenas.deps.json
+D:\CsharpProjects\04Trabajo-Con-Datos-Variables-En-Consola\03FormatoDeDatosAlfanumericos\BasesFormateoDeCadenas\bin\Debug\net8.0\BasesFormateoDeCadenas.runtimeconfig.json
+D:\CsharpProjects\04Trabajo-Con-Datos-Variables-En-Consola\03FormatoDeDatosAlfanumericos\BasesFormateoDeCadenas\bin\Debug\net8.0\BasesFormateoDeCadenas.dll
+D:\CsharpProjects\04Trabajo-Con-Datos-Variables-En-Consola\03FormatoDeDatosAlfanumericos\BasesFormateoDeCadenas\bin\Debug\net8.0\BasesFormateoDeCadenas.pdb
+D:\CsharpProjects\04Trabajo-Con-Datos-Variables-En-Consola\03FormatoDeDatosAlfanumericos\BasesFormateoDeCadenas\obj\Debug\net8.0\BasesFormateoDeCadenas.GeneratedMSBuildEditorConfig.editorconfig
+D:\CsharpProjects\04Trabajo-Con-Datos-Variables-En-Consola\03FormatoDeDatosAlfanumericos\BasesFormateoDeCadenas\obj\Debug\net8.0\BasesFormateoDeCadenas.AssemblyInfoInputs.cache
+D:\CsharpProjects\04Trabajo-Con-Datos-Variables-En-Consola\03FormatoDeDatosAlfanumericos\BasesFormateoDeCadenas\obj\Debug\net8.0\BasesFormateoDeCadenas.AssemblyInfo.cs
+D:\CsharpProjects\04Trabajo-Con-Datos-Variables-En-Consola\03FormatoDeDatosAlfanumericos\BasesFormateoDeCadenas\obj\Debug\net8.0\BasesFormateoDeCadenas.csproj.CoreCompileInputs.cache
+D:\CsharpProjects\04Trabajo-Con-Datos-Variables-En-Consola\03FormatoDeDatosAlfanumericos\BasesFormateoDeCadenas\obj\Debug\net8.0\BasesFormateoDeCadenas.sourcelink.json
+D:\CsharpProjects\04Trabajo-Con-Datos-Variables-En-Consola\03FormatoDeDatosAlfanumericos\BasesFormateoDeCadenas\obj\Debug\net8.0\BasesFormateoDeCadenas.dll
+D:\CsharpProjects\04Trabajo-Con-Datos-Variables-En-Consola\03FormatoDeDatosAlfanumericos\BasesFormateoDeCadenas\obj\Debug\net8.0\refint\BasesFormateoDeCadenas.dll
+D:\CsharpProjects\04Trabajo-Con-Datos-Variables-En-Consola\03FormatoDeDatosAlfanumericos\BasesFormateoDeCadenas\obj\Debug\net8.0\BasesFormateoDeCadenas.pdb
+D:\CsharpProjects\04Trabajo-Con-Datos-Variables-En-Consola\03FormatoDeDatosAlfanumericos\BasesFormateoDeCadenas\obj\Debug\net8.0\BasesFormateoDeCadenas.genruntimeconfig.cache
+D:\CsharpProjects\04Trabajo-Con-Datos-Variables-En-Consola\03FormatoDeDatosAlfanumericos\BasesFormateoDeCadenas\obj\Debug\net8.0\ref\BasesFormateoDeCadenas.dll

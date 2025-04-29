@@ -1,0 +1,15 @@
+D:\CsharpProjects\04Trabajo-Con-Datos-Variables-En-Consola\02OperacionesDeMatricesConMetodosAuxiliares\EjercicioCadenaDePedidos\obj\Debug\net8.0\EjercicioCadenaDePedidos.GeneratedMSBuildEditorConfig.editorconfig
+D:\CsharpProjects\04Trabajo-Con-Datos-Variables-En-Consola\02OperacionesDeMatricesConMetodosAuxiliares\EjercicioCadenaDePedidos\obj\Debug\net8.0\EjercicioCadenaDePedidos.AssemblyInfoInputs.cache
+D:\CsharpProjects\04Trabajo-Con-Datos-Variables-En-Consola\02OperacionesDeMatricesConMetodosAuxiliares\EjercicioCadenaDePedidos\obj\Debug\net8.0\EjercicioCadenaDePedidos.AssemblyInfo.cs
+D:\CsharpProjects\04Trabajo-Con-Datos-Variables-En-Consola\02OperacionesDeMatricesConMetodosAuxiliares\EjercicioCadenaDePedidos\obj\Debug\net8.0\EjercicioCadenaDePedidos.csproj.CoreCompileInputs.cache
+D:\CsharpProjects\04Trabajo-Con-Datos-Variables-En-Consola\02OperacionesDeMatricesConMetodosAuxiliares\EjercicioCadenaDePedidos\obj\Debug\net8.0\EjercicioCadenaDePedidos.sourcelink.json
+D:\CsharpProjects\04Trabajo-Con-Datos-Variables-En-Consola\02OperacionesDeMatricesConMetodosAuxiliares\EjercicioCadenaDePedidos\bin\Debug\net8.0\EjercicioCadenaDePedidos.exe
+D:\CsharpProjects\04Trabajo-Con-Datos-Variables-En-Consola\02OperacionesDeMatricesConMetodosAuxiliares\EjercicioCadenaDePedidos\bin\Debug\net8.0\EjercicioCadenaDePedidos.deps.json
+D:\CsharpProjects\04Trabajo-Con-Datos-Variables-En-Consola\02OperacionesDeMatricesConMetodosAuxiliares\EjercicioCadenaDePedidos\bin\Debug\net8.0\EjercicioCadenaDePedidos.runtimeconfig.json
+D:\CsharpProjects\04Trabajo-Con-Datos-Variables-En-Consola\02OperacionesDeMatricesConMetodosAuxiliares\EjercicioCadenaDePedidos\bin\Debug\net8.0\EjercicioCadenaDePedidos.dll
+D:\CsharpProjects\04Trabajo-Con-Datos-Variables-En-Consola\02OperacionesDeMatricesConMetodosAuxiliares\EjercicioCadenaDePedidos\bin\Debug\net8.0\EjercicioCadenaDePedidos.pdb
+D:\CsharpProjects\04Trabajo-Con-Datos-Variables-En-Consola\02OperacionesDeMatricesConMetodosAuxiliares\EjercicioCadenaDePedidos\obj\Debug\net8.0\EjercicioCadenaDePedidos.dll
+D:\CsharpProjects\04Trabajo-Con-Datos-Variables-En-Consola\02OperacionesDeMatricesConMetodosAuxiliares\EjercicioCadenaDePedidos\obj\Debug\net8.0\refint\EjercicioCadenaDePedidos.dll
+D:\CsharpProjects\04Trabajo-Con-Datos-Variables-En-Consola\02OperacionesDeMatricesConMetodosAuxiliares\EjercicioCadenaDePedidos\obj\Debug\net8.0\EjercicioCadenaDePedidos.pdb
+D:\CsharpProjects\04Trabajo-Con-Datos-Variables-En-Consola\02OperacionesDeMatricesConMetodosAuxiliares\EjercicioCadenaDePedidos\obj\Debug\net8.0\EjercicioCadenaDePedidos.genruntimeconfig.cache
+D:\CsharpProjects\04Trabajo-Con-Datos-Variables-En-Consola\02OperacionesDeMatricesConMetodosAuxiliares\EjercicioCadenaDePedidos\obj\Debug\net8.0\ref\EjercicioCadenaDePedidos.dll
