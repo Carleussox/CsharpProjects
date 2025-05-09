@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "EjercicioInterpolacionCadenas/1.0.0": {
+        "runtime": {
+          "EjercicioInterpolacionCadenas.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EjercicioInterpolacionCadenas/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+D:\CsharpProjects\04Trabajo-Con-Datos-Variables-En-Consola\03FormatoDeDatosAlfanumericos\RellenoYAlineaciónDeCadenas\bin\Debug\net8.0\RellenoYAlineaciónDeCadenas.exe
+D:\CsharpProjects\04Trabajo-Con-Datos-Variables-En-Consola\03FormatoDeDatosAlfanumericos\RellenoYAlineaciónDeCadenas\bin\Debug\net8.0\RellenoYAlineaciónDeCadenas.deps.json
+D:\CsharpProjects\04Trabajo-Con-Datos-Variables-En-Consola\03FormatoDeDatosAlfanumericos\RellenoYAlineaciónDeCadenas\bin\Debug\net8.0\RellenoYAlineaciónDeCadenas.runtimeconfig.json
+D:\CsharpProjects\04Trabajo-Con-Datos-Variables-En-Consola\03FormatoDeDatosAlfanumericos\RellenoYAlineaciónDeCadenas\bin\Debug\net8.0\RellenoYAlineaciónDeCadenas.dll
+D:\CsharpProjects\04Trabajo-Con-Datos-Variables-En-Consola\03FormatoDeDatosAlfanumericos\RellenoYAlineaciónDeCadenas\bin\Debug\net8.0\RellenoYAlineaciónDeCadenas.pdb
+D:\CsharpProjects\04Trabajo-Con-Datos-Variables-En-Consola\03FormatoDeDatosAlfanumericos\RellenoYAlineaciónDeCadenas\obj\Debug\net8.0\RellenoYAlineaciónDeCadenas.GeneratedMSBuildEditorConfig.editorconfig
+D:\CsharpProjects\04Trabajo-Con-Datos-Variables-En-Consola\03FormatoDeDatosAlfanumericos\RellenoYAlineaciónDeCadenas\obj\Debug\net8.0\RellenoYAlineaciónDeCadenas.AssemblyInfoInputs.cache
+D:\CsharpProjects\04Trabajo-Con-Datos-Variables-En-Consola\03FormatoDeDatosAlfanumericos\RellenoYAlineaciónDeCadenas\obj\Debug\net8.0\RellenoYAlineaciónDeCadenas.AssemblyInfo.cs
+D:\CsharpProjects\04Trabajo-Con-Datos-Variables-En-Consola\03FormatoDeDatosAlfanumericos\RellenoYAlineaciónDeCadenas\obj\Debug\net8.0\RellenoYAlineaciónDeCadenas.csproj.CoreCompileInputs.cache
+D:\CsharpProjects\04Trabajo-Con-Datos-Variables-En-Consola\03FormatoDeDatosAlfanumericos\RellenoYAlineaciónDeCadenas\obj\Debug\net8.0\RellenoYAlineaciónDeCadenas.sourcelink.json
+D:\CsharpProjects\04Trabajo-Con-Datos-Variables-En-Consola\03FormatoDeDatosAlfanumericos\RellenoYAlineaciónDeCadenas\obj\Debug\net8.0\RellenoYAlineaciónDeCadenas.dll
+D:\CsharpProjects\04Trabajo-Con-Datos-Variables-En-Consola\03FormatoDeDatosAlfanumericos\RellenoYAlineaciónDeCadenas\obj\Debug\net8.0\refint\RellenoYAlineaciónDeCadenas.dll
+D:\CsharpProjects\04Trabajo-Con-Datos-Variables-En-Consola\03FormatoDeDatosAlfanumericos\RellenoYAlineaciónDeCadenas\obj\Debug\net8.0\RellenoYAlineaciónDeCadenas.pdb
+D:\CsharpProjects\04Trabajo-Con-Datos-Variables-En-Consola\03FormatoDeDatosAlfanumericos\RellenoYAlineaciónDeCadenas\obj\Debug\net8.0\RellenoYAlineaciónDeCadenas.genruntimeconfig.cache
+D:\CsharpProjects\04Trabajo-Con-Datos-Variables-En-Consola\03FormatoDeDatosAlfanumericos\RellenoYAlineaciónDeCadenas\obj\Debug\net8.0\ref\RellenoYAlineaciónDeCadenas.dll

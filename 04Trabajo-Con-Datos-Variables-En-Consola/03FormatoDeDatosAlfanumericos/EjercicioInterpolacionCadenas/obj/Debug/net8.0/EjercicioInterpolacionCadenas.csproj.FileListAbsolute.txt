@@ -1,0 +1,15 @@
+D:\CsharpProjects\04Trabajo-Con-Datos-Variables-En-Consola\03FormatoDeDatosAlfanumericos\EjercicioInterpolacionCadenas\bin\Debug\net8.0\EjercicioInterpolacionCadenas.exe
+D:\CsharpProjects\04Trabajo-Con-Datos-Variables-En-Consola\03FormatoDeDatosAlfanumericos\EjercicioInterpolacionCadenas\bin\Debug\net8.0\EjercicioInterpolacionCadenas.deps.json
+D:\CsharpProjects\04Trabajo-Con-Datos-Variables-En-Consola\03FormatoDeDatosAlfanumericos\EjercicioInterpolacionCadenas\bin\Debug\net8.0\EjercicioInterpolacionCadenas.runtimeconfig.json
+D:\CsharpProjects\04Trabajo-Con-Datos-Variables-En-Consola\03FormatoDeDatosAlfanumericos\EjercicioInterpolacionCadenas\bin\Debug\net8.0\EjercicioInterpolacionCadenas.dll
+D:\CsharpProjects\04Trabajo-Con-Datos-Variables-En-Consola\03FormatoDeDatosAlfanumericos\EjercicioInterpolacionCadenas\bin\Debug\net8.0\EjercicioInterpolacionCadenas.pdb
+D:\CsharpProjects\04Trabajo-Con-Datos-Variables-En-Consola\03FormatoDeDatosAlfanumericos\EjercicioInterpolacionCadenas\obj\Debug\net8.0\EjercicioInterpolacionCadenas.GeneratedMSBuildEditorConfig.editorconfig
+D:\CsharpProjects\04Trabajo-Con-Datos-Variables-En-Consola\03FormatoDeDatosAlfanumericos\EjercicioInterpolacionCadenas\obj\Debug\net8.0\EjercicioInterpolacionCadenas.AssemblyInfoInputs.cache
+D:\CsharpProjects\04Trabajo-Con-Datos-Variables-En-Consola\03FormatoDeDatosAlfanumericos\EjercicioInterpolacionCadenas\obj\Debug\net8.0\EjercicioInterpolacionCadenas.AssemblyInfo.cs
+D:\CsharpProjects\04Trabajo-Con-Datos-Variables-En-Consola\03FormatoDeDatosAlfanumericos\EjercicioInterpolacionCadenas\obj\Debug\net8.0\EjercicioInterpolacionCadenas.csproj.CoreCompileInputs.cache
+D:\CsharpProjects\04Trabajo-Con-Datos-Variables-En-Consola\03FormatoDeDatosAlfanumericos\EjercicioInterpolacionCadenas\obj\Debug\net8.0\EjercicioInterpolacionCadenas.sourcelink.json
+D:\CsharpProjects\04Trabajo-Con-Datos-Variables-En-Consola\03FormatoDeDatosAlfanumericos\EjercicioInterpolacionCadenas\obj\Debug\net8.0\EjercicioInterpolacionCadenas.dll
+D:\CsharpProjects\04Trabajo-Con-Datos-Variables-En-Consola\03FormatoDeDatosAlfanumericos\EjercicioInterpolacionCadenas\obj\Debug\net8.0\refint\EjercicioInterpolacionCadenas.dll
+D:\CsharpProjects\04Trabajo-Con-Datos-Variables-En-Consola\03FormatoDeDatosAlfanumericos\EjercicioInterpolacionCadenas\obj\Debug\net8.0\EjercicioInterpolacionCadenas.pdb
+D:\CsharpProjects\04Trabajo-Con-Datos-Variables-En-Consola\03FormatoDeDatosAlfanumericos\EjercicioInterpolacionCadenas\obj\Debug\net8.0\EjercicioInterpolacionCadenas.genruntimeconfig.cache
+D:\CsharpProjects\04Trabajo-Con-Datos-Variables-En-Consola\03FormatoDeDatosAlfanumericos\EjercicioInterpolacionCadenas\obj\Debug\net8.0\ref\EjercicioInterpolacionCadenas.dll
